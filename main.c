@@ -1,5 +1,5 @@
 /*
- * Conditional operator programming exercises and solutions in C
+ * Switch case programming exercises and solutions in C
  *
  *  Created on: Aug 22, 2024
  *      Author: Hager Khaled
